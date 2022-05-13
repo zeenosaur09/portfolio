@@ -1,4 +1,4 @@
-baseURL = "https://shazi.netlify.app"
+baseURL = ""
 languageCode = "en-us"
 title = "Zeenosaur"
 theme = "digitalgarden"
