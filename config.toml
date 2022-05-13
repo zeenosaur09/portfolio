@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = Zeenosaur"
+title = "Zeenosaur"
 theme = "digitalgarden"
 
 googleAnalytics = "UA-PROPERTY_ID"
