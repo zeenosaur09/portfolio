@@ -1,10 +1,10 @@
 [
   {
-    "name": "Bear Notes",
-    "description": "Quick note taking application on Mac for writing down instant thoughts",
-    "link": "https://bear.app/",
-    "icon": "https://blog.bear.app/wp-content/uploads/2018/10/bear-icon.png",
-    "tag": "Productivity"
+    "name": "Obsidian.md",
+    "description": "Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.",
+    "link": "https://obsidian.md/",
+    "icon": "https://avatars.githubusercontent.com/u/65011256?s=280&v=4",
+    "tag": "Note Taking"
   },
   {
     "name": "Cloudflare",

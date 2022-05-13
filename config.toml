@@ -1,18 +1,18 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Zeenosaur"
+title = "Shazia Sultana"
 theme = "digitalgarden"
 
 googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
-  description = "My Digital Garden on the Internet"
+  description = "Shazia Sultana's Digital Garden on the Internet. My portfolio and blog where I write about UX/UI."
   images = ['/digital-garden-logo.png']
 
-[Params.newsletter]
-  title = ""
-  description = "A curated weekly digest once a week to your mailbox"
-  path = "https://www.getrevue.co/profile/username/add_subscriber"
+#[Params.newsletter]
+#  title = ""
+#  description = "A curated weekly digest once a week to your mailbox"
+#  path = "https://www.getrevue.co/profile/username/add_subscriber"
 
 [menu]
 [[menu.main]]
@@ -42,7 +42,7 @@ googleAnalytics = "UA-PROPERTY_ID"
   weight = 1
 [[menu.social]]
   name = 'GitHub'
-  url = 'https://github.com'
+  url = 'https://github.com/zeenosaur09'
   weight = 2
 [[menu.social]]
   name = 'LinkedIn'
@@ -61,17 +61,10 @@ googleAnalytics = "UA-PROPERTY_ID"
   url = 'https://codepen.io'
   weight = 6
 [[menu.social]]
-  name = 'Twitch'
-  url = 'https://twitch.com'
-  weight = 7
-[[menu.social]]
   name = 'Email'
-  url = 'mailto:user@example.org'
-  weight = 8
-[[menu.social]]
-  name = 'RSS'
-  url = '/articles/index.xml'
-  weight = 9
+  url = 'mailto:kinsak.96@gmail.com'
+  weight = 7
+
 
 
 # syntax highlight settings
