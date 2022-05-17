@@ -3,7 +3,7 @@ title: The Political Chronicles news updates for youngsters
 date: 2021-12-16
 images:
 - https://res.cloudinary.com/zeenosaur/image/upload/c_scale,h_300,w_400/v1652783203/Old-Newspapers_paoaao.webp
-description: Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin.
+description: political news updating app/website developed specially for young adults.
 ---
 
 Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan. 
