@@ -52,10 +52,6 @@ googleAnalytics = "UA-PROPERTY_ID"
   url = 'https://dribbble.com'
   weight = 5
 [[menu.social]]
-  name = 'Codepen'
-  url = 'https://codepen.io'
-  weight = 6
-[[menu.social]]
   name = 'Email'
   url = 'mailto:kinsak.96@gmail.com'
   weight = 7
