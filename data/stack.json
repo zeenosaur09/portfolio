@@ -28,13 +28,6 @@
     "tag": "Webdev"
   },
   {
-    "name": "iTerm",
-    "description": "A definitely more functional terminal for Mac",
-    "link": "https://iterm2.com/",
-    "icon": "https://icons.iconarchive.com/icons/froyoshark/enkel/256/iTerm-icon.png",
-    "tag": "Productivity"
-  },
-  {
     "name": "Figma",
     "description": "Design tool for all design artifacts and social media handles",
     "link": "https://www.figma.com/",
