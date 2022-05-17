@@ -6,12 +6,12 @@ images:
 description: a pet adoption website for an animal rescue shelter where you can adopt abandoned pets and rescued animals.
 ---
 
+Cluck is built mainly to contibrute to animal welfare. Here you can contact vets near you when you want to save a sick or injured helpless animal. You can adopt and also put your pet for adoption, contact the sellers and also donate for animal shelter.
 
+Link to the project:
+https://xd.adobe.com/view/8965ef1a-d8a7-44a9-9211-824187edd15c-dc36/screen/9303d09f-d1f8-4c9c-ada1-d3154f1158e8/?fullscreen
 
+Link to Cluck case study:
+https://docs.google.com/presentation/d/1MNhMOTLSvuWr35c6UKQpkb74_J5G6tZBM19iGKKvM6k/edit#slide=id.ge4c37861fa_0_354
 
-
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla. 
-
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry. 
-
-Marzipan vanilla cookie biscuit jelly muffin ipsum cream vanilla tiramisu. Marzipan vanilla sweet tiramisu pastry cake jelly jelly pastry cake. Cookie sweet donut candy pastry apple dolor orange lollipop biscuit. Muffin cream ipsum ipsum sprinkles sugar tiramisu pastry sweet tiramisu. 
+Built using Adobe XD
