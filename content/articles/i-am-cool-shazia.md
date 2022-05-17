@@ -1,14 +1,13 @@
 ---
-title: Shazia is cool
+title: What I learned about UI and UX design
 date: 2022-05-13
 images: 
 - https://raw.githubusercontent.com/apvarun/digital-garden-hugo-theme/main/images/digital-garden-logo.png
 ---
 
-# THis is a new article
+# This is my first article
 
-## It supports markdown
+## coming soon
 
-### This is a level 3 heading
 
-_so_ _cool_
+
