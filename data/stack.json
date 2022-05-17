@@ -8,17 +8,17 @@
   },
   {
     "name": "Cloudflare",
-    "description": "Place for all my domains on the internet",
-    "link": "https://cloudflare.com",
-    "icon": "",
+    "description": "Adobe XD is a vector-based user experience design tool for web apps and mobile apps, developed and published by Adobe Inc.",
+    "link": "https://www.adobe.com/in/products/xd.html",
+    "icon": "https://res.cloudinary.com/zeenosaur/image/upload/c_scale,h_280,w_280/v1652783898/images_slwp1j.png",
     "tag": "Webdev"
   },
   {
     "name": "Vercel",
     "description": "Hosts frontend of projects including this website",
     "link": "https://vercel.com/",
-    "icon": "",
-    "tag": ""
+    "icon": "https://res.cloudinary.com/zeenosaur/image/upload/c_scale,w_280/v1652784051/AKedOLQXY9C5hZmkiir52pex2P38IdWxH_zZvYEdPE5Utw_s900-c-k-c0x00ffffff-no-rj_havzfw.jpg",
+    "tag": "frontenddev"
   },
   {
     "name": "GitHub",
