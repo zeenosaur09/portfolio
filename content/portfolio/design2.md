@@ -1,6 +1,6 @@
 ---
 title: CluCk animal adoption website
-date: 2021-12-17
+date: 2022-03-24
 images:
 - https://res.cloudinary.com/zeenosaur/image/upload/c_scale,w_400/v1652782631/animalrescuee43_t2zcem.jpg
 description: a pet adoption website for an animal rescue shelter where you can adopt abandoned pets and rescued animals.
