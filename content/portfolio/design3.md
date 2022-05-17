@@ -1,6 +1,6 @@
 ---
 title: The Political Chronicles news updates for youngsters
-date: 2021-12-16
+date: 2022-05-11
 images:
 - https://res.cloudinary.com/zeenosaur/image/upload/c_scale,h_300,w_400/v1652783203/Old-Newspapers_paoaao.webp
 description: political news updating app/website developed specially for young adults.
