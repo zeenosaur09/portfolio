@@ -6,10 +6,16 @@ images:
 description: political news updating app/website developed specially for young adults.
 ---
 
-Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan. 
+The political chronicles app/website is developed putting in consideration the hectic time schedules of students so that they can stay updated with daily important political and other news with ease. It is a smart-to-use website and application that will strike the curiosity of users to browse more. The speciality of this project is that it also provides learning materials and quizzes for users (especially youngsters) to improve their general knowledge, political knowledge and current affairs.
 
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla. 
+Link to the project:
+https://xd.adobe.com/view/e919ba28-e84d-4465-8a3d-470e70724fb6-bc4a/
 
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry. 
+Link to The Political Chronicles case study:
+https://docs.google.com/presentation/d/1Q7ucgzp3gQIhMmjjfVCIR3A6gLfiUuKSTFXxrXHiUsg/edit#slide=id.ge4c37863e3_0_334
 
-Marzipan vanilla cookie biscuit jelly muffin ipsum cream vanilla tiramisu. Marzipan vanilla sweet tiramisu pastry cake jelly jelly pastry cake. Cookie sweet donut candy pastry apple dolor orange lollipop biscuit. Muffin cream ipsum ipsum sprinkles sugar tiramisu pastry sweet tiramisu. 
+Built using Adobe XD
+
+
+
+
