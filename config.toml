@@ -31,14 +31,9 @@ googleAnalytics = "UA-PROPERTY_ID"
   name = 'Stack'
   url = '/stack'
   weight = 4
-[[menu.main]]
-  name = 'Polywork'
-  url = 'https://polywork.com'
-  weight = 5
-
 [[menu.social]]
   name = 'Twitter'
-  url = 'https://twitter.com'
+  url = 'https://twitter.com/zeenosaur'
   weight = 1
 [[menu.social]]
   name = 'GitHub'
@@ -46,11 +41,11 @@ googleAnalytics = "UA-PROPERTY_ID"
   weight = 2
 [[menu.social]]
   name = 'LinkedIn'
-  url = 'https://linkedin.com'
+  url = 'https://www.linkedin.com/in/shazia-sultana-657107227/'
   weight = 3
 [[menu.social]]
   name = 'Instagram'
-  url = 'https://instagram.com'
+  url = 'https://www.instagram.com/sha_zia.sul_tana/'
   weight = 4
 [[menu.social]]
   name = 'Dribbble'
