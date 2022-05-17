@@ -31,6 +31,10 @@ googleAnalytics = "UA-PROPERTY_ID"
   name = 'Stack'
   url = '/stack'
   weight = 4
+  [[menu.main]]
+  name = 'My drawings'
+  url = '/hobbie'
+  weight = 5
 [[menu.social]]
   name = 'Twitter'
   url = 'https://twitter.com/zeenosaur'
