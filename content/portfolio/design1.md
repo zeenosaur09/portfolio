@@ -2,7 +2,7 @@
 title: White Roses Wedding Catering 
 date: 2021-12-18
 images:
-- https://res.cloudinary.com/zeenosaur/image/upload/v1652782416/White-Rose-Cake_43_mai4j3.jpg
+- https://res.cloudinary.com/zeenosaur/image/upload/c_scale,h_300,w_400/v1652782416/White-Rose-Cake_43_mai4j3.jpg
 description: Sprinkles jelly ipsum sweet biscuit marzipan. Jelly dolor biscuit croissant croissant sweet.
 ---
 
