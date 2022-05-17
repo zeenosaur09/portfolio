@@ -2,7 +2,7 @@
 title: White Roses wedding catering 
 date: 2021-12-18
 images:
-- https://withjoy.com/blog/wp-content/themes/soledad/images/penci-holder.png
+- https://i.pinimg.com/originals/2a/ee/7a/2aee7ab092698b0096103b7e196825e4.jpg
 description: Sprinkles jelly ipsum sweet biscuit marzipan. Jelly dolor biscuit croissant croissant sweet.
 ---
 
