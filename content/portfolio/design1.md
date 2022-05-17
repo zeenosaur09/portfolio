@@ -14,4 +14,4 @@ https://www.figma.com/proto/Kl4H2M6MhXFQKgLFG7fIug/wr-mockups?scaling=scale-down
 Link to White Roses case study:
 https://docs.google.com/presentation/d/1Y0UMkNxo_JecffbJDRVm6qAj3k7Sf0DX4eJlqcdJcv4/edit#slide=id.p
 
-I'm still working on it! :D 
+Still working on improvising it! :)
