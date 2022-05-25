@@ -1,6 +1,6 @@
 ---
 title: Bobo, a pet health tracker app
-date: 2022-05-11
+date: 2022-05-25
 images:
 - https://res.cloudinary.com/zeenosaur/image/upload/c_scale,h_300,w_400/v1653475906/istockphoto-1306406393-170667a_ytw9jk.jpg
 description: A pet tracking app that syncs pet's vital statistics through the microchip inserted under its skin.
