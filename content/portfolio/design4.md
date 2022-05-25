@@ -9,6 +9,6 @@ description: A pet tracking app that syncs pet's vital statistics through the mi
 This is an app made for the company 'BOBO' that develops microchips that are inserted under the skin of pets. The microchip can provide a pet's owner its vital statistics in the form of dashboards in the app.
 
 Link to the project:
-[The Political Chronicles](https://www.figma.com/file/gjaJLUYKhi9JLIKAvdsqjp/bobo?node-id=0%3A1)
+[BOBO](https://www.figma.com/file/gjaJLUYKhi9JLIKAvdsqjp/bobo?node-id=0%3A1)
 
 Built using Figma
