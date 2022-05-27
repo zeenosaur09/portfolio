@@ -2,7 +2,7 @@
 title: Graceful degradation of a desktop frame - MVP Design Workspace
 date: 2022-05-26
 images:
-- https://res.cloudinary.com/zeenosaur/image/upload/c_scale,h_300,w_400/v1653673588/UX_intern_task_-_Design_for_Mobile_2_wubazm.pdf
+- https://res.cloudinary.com/zeenosaur/image/upload/c_scale,h_300,w_400/v1653673994/Mobile_Design_h0jeky.png
 description: A pet tracking app that syncs pet's vital statistics through the microchip inserted under its skin.
 ---
 
