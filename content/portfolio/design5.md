@@ -3,7 +3,7 @@ title: Graceful degradation of a desktop frame - MVP Design Workspace
 date: 2022-05-26
 images:
 - https://res.cloudinary.com/zeenosaur/image/upload/c_scale,h_300,w_400/v1653673994/Mobile_Design_h0jeky.png
-description: Desktop version to mobile version concersion assignment.
+description: Desktop version to mobile version conversion assignment.
 ---
 
 This is how I made a mobile version of MVP Design. 
