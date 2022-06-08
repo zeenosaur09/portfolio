@@ -2,7 +2,7 @@
 title: White Roses Wedding Catering 
 date: 2022-06-08
 images:
-- https://res.cloudinary.com/zeenosaur/image/upload/c_scale,h_300,w_400/v1652782416/White-Rose-Cake_43_mai4j3.jpg
+- https://res.cloudinary.com/zeenosaur/image/upload/v1654681175/photos-by-lanty-3962cSRPwOo-unsplash_gzsnze.png
 description: White Roses is a Food menu viewing app for wedding catering and online booking.
 ---
 
